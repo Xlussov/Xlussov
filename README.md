@@ -1,4 +1,6 @@
-![Header](./assets/github-banner-v3.gif)
+<p align="center">
+  <img src="./assets/github-banner-v3.gif" alt="Header" />
+</p>
 
 ## Hey bro, I'm Danil Hlusov👋
 
