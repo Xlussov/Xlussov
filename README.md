@@ -4,7 +4,7 @@
 
 <!-- <h2>Hey bro, I'm Danil Hlusov👋</h2> -->
 
-<p>I'm a FrontEnd developer from Ukraine, working with <strong>React, TypeScript, MUI</strong> to build productive web applications.</p>
+<h4 align='center'>I'm a FrontEnd developer from Ukraine, working with <strong>React, TypeScript, MUI</strong> to build productive web applications.</h4>
 
 <h3>About me:</h3>
 <ul>
@@ -13,13 +13,13 @@
   <li>🌍 <strong>Location:</strong> Ukraine</li>
   <li>🎓 <strong>Education:</strong> Front-end Developer from STEP Academy.</li>
   <li>🚀 <strong>Career Goals:</strong> I study computer science to improve my skills and knowledge for the overall development of computer technology.</li>
-  <li>📚 <strong>Hobbies:</strong> Enjoy limbing and playing Squad.</li>
+  <li>📚 <strong>Hobbies:</strong> Enjoy Climbing and playing Squad.</li>
   <li>💼 <strong>Current Role:</strong> FrontEnd Developer at ******.</li>
 </ul>
 
 <h2>Core technologies:</h2>
-
-<p align="left">
+&nbsp;&nbsp;
+<p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   </a>&nbsp;&nbsp;
