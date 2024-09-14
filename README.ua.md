@@ -1,4 +1,3 @@
 ## ua
 
-- [English](./README.en.md)
-- [Укрїнська](./README.ua.md)
+- [English](./README.md)
