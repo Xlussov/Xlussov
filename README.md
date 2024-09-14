@@ -41,7 +41,7 @@
 </p>
 
 
-<h2>Core technologies:</h2>
+<h2>💻 Core technologies:</h2>
 &nbsp;&nbsp;
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
@@ -61,7 +61,7 @@
   </a>
 </p>
 
-<h2>Technology stack:</h2>
+<h2>🚀 Technology stack:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
