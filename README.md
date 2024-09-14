@@ -10,7 +10,7 @@
   <img src="./assets/github-banner-v3.gif" alt="Header" width='100%'/>
 </div>
 
-<h4 align='center'>I'm a FrontEnd developer from Ukraine, working with <strong>React, TypeScript, MUI</strong> to build productive web applications.</h4>
+<h4 align='center' style='font-size: 16px'>I'm a FrontEnd developer from Ukraine, working with <strong>React, TypeScript, MUI</strong> to build productive web applications.</h4>
 
 <h3>About me:</h3>
 <ul>
@@ -24,6 +24,22 @@
   <li>📚 <strong>Hobbies:</strong> Enjoy Climbing and playing Squad.</li>
   <li>💼 <strong>Current Role:</strong> FrontEnd Developer at ******.</li>
 </ul>
+  &nbsp;&nbsp;
+<p align="center">
+  <a href="https://t.me/Xlussov" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:xlussov@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/Xlussov" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/Xlussov" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LeetCode-FEFEFE?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>&nbsp;&nbsp;
+</p>
+
 
 <h2>Core technologies:</h2>
 &nbsp;&nbsp;
@@ -76,74 +92,5 @@
 
 <h2>📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats" width='100%'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats" width='65%'/>
 </div>
-
-
-
-
-
-
-
-<!-- <div align="center">
-  <img src="./assets/github-banner-v3.gif" alt="Welcome to my GitHub profile" />
-</div>
-
-
-<h1 align="center">Hey bro, I'm Danil Hlusov</h1> -->
-
-<!--  
-<p align="center">
-  Passionate developer from Ukraine, working with <strong>React, TypeScript, MUI</strong> to build productive web applications.
-</p> 
-
-
-<div align="center">
-  <img src="https://your-gif-link.com/developer.gif" alt="Coding gif" width="500px" />
-</div> 
-
----
- 
-### 🛠️ Main technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI Badge" />
-
-</p>
-
----
-
-### 🔥 What I’m Currently Working On
-
-- Building scalable web applications using **React** and **MUI**.
-- Creating dynamic UI components with **TypeScript**.
-- Exploring new front-end technologies to optimize performance.
-
----
-
-### ✨ Fun Facts
-
-- I love solving challenging problems and optimizing user experiences.
-- Big fan of **design systems** and creating reusable components.
-- Always learning new technologies to stay updated!
-
----
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Danil's GitHub Stats" />
-</div>
-
----
-
-### 🌍 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
-</p>
-
-- [Укрїнська](./README.ua.md)   -->
