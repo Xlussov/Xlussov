@@ -1,14 +1,16 @@
 <h5 align='center'>
-  <a href='./README.md/'>English</a>
-  /
-  <a href='./README.ua.md/'>Ukrainian</a>
+  <strong>  
+    <a href='./README.md/'>English</a>
+    /
+    <a href='./README.ua.md/'>Ukrainian</a>
+  </strong>
 </h5>
 
 <div align="center">
-  <img src="./assets/github-banner-v3.gif" alt="Header" />
+  <img src="./assets/github-banner-v3.gif" alt="Header" width='100%'/>
 </div>
 
-<h3 align='center'>I'm a FrontEnd developer from Ukraine, working with <strong>React, TypeScript, MUI</strong> to build productive web applications.</h3>
+<h4 align='center'>I'm a FrontEnd developer from Ukraine, working with <strong>React, TypeScript, MUI</strong> to build productive web applications.</h4>
 
 <h3>About me:</h3>
 <ul>
@@ -70,6 +72,14 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge" />
 </p>
+
+
+<h2>📈 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats" width='100%'/>
+</div>
+
+
 
 
 
@@ -136,4 +146,4 @@
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" /></a>
 </p>
 
-- [Укрїнська](./README.ua.md)  --> 
+- [Укрїнська](./README.ua.md)   -->
