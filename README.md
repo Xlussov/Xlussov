@@ -1,16 +1,22 @@
-<h4 align="center">
+<h5 align='center'>
+  <a href='./README.md/'>English</a>
+  /
+  <a href='./README.ua.md/'>Ukrainian</a>
+</h5>
+
+<div align="center">
   <img src="./assets/github-banner-v3.gif" alt="Header" />
-</р>
+</div>
 
-<!-- <h2>Hey bro, I'm Danil Hlusov👋</h2> -->
-
-<h4 align='center'>I'm a FrontEnd developer from Ukraine, working with <strong>React, TypeScript, MUI</strong> to build productive web applications.</h4>
+<h3 align='center'>I'm a FrontEnd developer from Ukraine, working with <strong>React, TypeScript, MUI</strong> to build productive web applications.</h3>
 
 <h3>About me:</h3>
 <ul>
   <li>👨‍💻 <strong>Name:</strong> Danil Hlusov</li>
   <li>🎂 <strong>Age:</strong> 16 years old</li>
   <li>🌍 <strong>Location:</strong> Ukraine</li>
+  <li>🗣️ <strong>Languages:</strong> Ukrainian: Native, Russian: Native, English: B1</li>
+
   <li>🎓 <strong>Education:</strong> Front-end Developer from STEP Academy.</li>
   <li>🚀 <strong>Career Goals:</strong> I study computer science to improve my skills and knowledge for the overall development of computer technology.</li>
   <li>📚 <strong>Hobbies:</strong> Enjoy Climbing and playing Squad.</li>
@@ -21,19 +27,19 @@
 &nbsp;&nbsp;
 <p align="center">
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="52" height="52" alt="TypeScript" />
   </a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="52" height="52" alt="React" />
   </a>&nbsp;&nbsp;
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="52" height="52" alt="Vite" />
   </a>&nbsp;&nbsp;
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="52" height="52" alt="Material UI" />
   </a>&nbsp;&nbsp;
   <a href="https://feature-sliced.design/docs" target="_blank" rel="noreferrer">
-    <img src="https://feature-sliced.design/ru/img/brand/logo-primary.png" alt="FSD Logo" width="auto" height="32" />
+    <img src="https://feature-sliced.design/ru/img/brand/logo-primary.png" alt="FSD Logo" width="auto" height="44" />
   </a>
 </p>
 
