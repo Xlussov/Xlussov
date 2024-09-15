@@ -18,7 +18,7 @@
   <li>🎂 <strong>Вік:</strong> 16 років</li>
   <li>🌍 <strong>Місцезнаходження:</strong> Україна</li>
   <li>🗣️ <strong>Мови:</strong> Українська: Рідна, Російська: Рідна, Англійська: B1</li>
-  <li>🎓 <strong>Освіта:</strong> Фронтенд-розробник у STEP Academy.</li>
+  <li>🎓 <strong>Освіта:</strong> Фронтенд-розробник у IT STEP Academy.</li>
   <li>🚀 <strong>Кар'єрні цілі:</strong> Я вивчаю комп'ютерні науки, щоб покращити свої навички та знання для загального розвитку комп'ютерних технологій.</li>
   <li>📚 <strong>Хобі:</strong> Займаюся скелелазінням і граю в Squad.</li>
   <li>💼 <strong>Поточна роль:</strong> FrontEnd Розробник в ******.</li>
@@ -89,6 +89,6 @@
 
 <h2>📈 Статистика GitHub:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlussov&show_icons=true&theme=github_dark_dimmed&hide=html,css,scss&langs_count=3" alt="Danil's GitHub Stats"  height='200px'/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats" height='200px'/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlussov&show_icons=true&theme=github_dark_dimmed&hide=html,css,scss&langs_count=3&locale=uk-ua" alt="Danil's GitHub Stats"  height='200px' />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed&locale=uk-ua" alt="Danil's GitHub Stats" height='200px'/>
 </div>
