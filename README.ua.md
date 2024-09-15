@@ -89,5 +89,5 @@
 
 <h2>📈 Статистика GitHub:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Статистика GitHub Данила" width='65%'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Статистика GitHub Данила"/>
 </div>
