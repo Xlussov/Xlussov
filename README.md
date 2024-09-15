@@ -96,7 +96,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats" style="height: 100%; object-fit: cover;" />
   </div>
   <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats" style="height: 100%; object-fit: cover;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlussov&show_icons=true&theme=github_dark_dimmed&hide=html,css" alt="Danil's GitHub Stats" style="height: 100%; object-fit: cover;" />
   </div>
 </div>
 
