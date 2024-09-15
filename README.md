@@ -91,7 +91,16 @@
 
 
 <h2>📈 GitHub Stats</h2>
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlussov&show_icons=true&theme=github_dark_dimmed&hide=html,css,scss&langs_count=3" alt="Danil's GitHub Stats" />
+</div> -->
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <div style="display: flex; flex-direction: column; height: 195px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlussov&show_icons=true&theme=github_dark_dimmed&hide=html,css,scss&langs_count=3" alt="Danil's GitHub Stats" style="height: 100%;" />
+  </div>
+  <div style="display: flex; flex-direction: column">
+    <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats" style="height: 100%;" />
+  </div>
+
 </div>
