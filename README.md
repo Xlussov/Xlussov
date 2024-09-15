@@ -90,15 +90,8 @@
 </p>
 
 
-<h2>📈 GitHub Stats</h2>
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlussov&show_icons=true&theme=github_dark_dimmed&hide=html,css,scss&langs_count=3" alt="Danil's GitHub Stats" />
-</div> -->
-
-
+<h2>📈 GitHub Stats:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlussov&show_icons=true&theme=github_dark_dimmed&hide=html,css,scss&langs_count=3" alt="Danil's GitHub Stats"  height='200px'/>
   <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats" height='200px'/>
-
 </div>
