@@ -15,13 +15,13 @@
 <h3>Про мене:</h3>
 <ul>
   <li>👨‍💻 <strong>Ім'я:</strong> Данил Хлусов</li>
-  <li>🎂 <strong>Вік:</strong> 16 років</li>
+  <li>🎂 <strong>Вік:</strong> 17 років</li>
   <li>🌍 <strong>Місцезнаходження:</strong> Україна</li>
   <li>🗣️ <strong>Мови:</strong> Українська: Рідна, Російська: Рідна, Англійська: B1</li>
   <li>🎓 <strong>Освіта:</strong> Фронтенд-розробник у IT STEP Academy.</li>
   <li>🚀 <strong>Кар'єрні цілі:</strong> Я вивчаю комп'ютерні науки, щоб покращити свої навички та знання для загального розвитку комп'ютерних технологій.</li>
-  <li>📚 <strong>Хобі:</strong> Займаюся скелелазінням і граю в Squad.</li>
-  <li>💼 <strong>Поточна роль:</strong> FrontEnd Розробник в BeatXS corporation.</li>
+  <li>📚 <strong>Хобі:</strong> Займаюся скелелазінням і граю в War Thunder.</li>
+  <li>💼 <strong>Поточна роль:</strong> FrontEnd Розробник в HousesCRM.</li>
 </ul>
   &nbsp;&nbsp;
 
