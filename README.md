@@ -22,7 +22,7 @@
   <li>🎓 <strong>Education:</strong> Front-end Developer from IT STEP Academy.</li>
   <li>🚀 <strong>Career Goals:</strong> I study computer science to improve my skills and knowledge for the overall development of computer technology.</li>
   <li>📚 <strong>Hobbies:</strong> Enjoy Climbing and playing War Thunder.</li>
-  <li>💼 <strong>Current Role:</strong> FrontEnd Developer at BeatXS corporation.</li>
+  <li>💼 <strong>Current Role:</strong> FrontEnd Developer at HousesCRM.</li>
 </ul>
   &nbsp;&nbsp;
 <p align="center">
