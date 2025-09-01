@@ -15,13 +15,13 @@
 <h3>About me:</h3>
 <ul>
   <li>👨‍💻 <strong>Name:</strong> Danil Hlusov</li>
-  <li>🎂 <strong>Age:</strong> 16 years old</li>
+  <li>🎂 <strong>Age:</strong> 17 years old</li>
   <li>🌍 <strong>Location:</strong> Ukraine</li>
   <li>🗣️ <strong>Languages:</strong> Ukrainian: Native, Russian: Native, English: B1</li>
 
   <li>🎓 <strong>Education:</strong> Front-end Developer from IT STEP Academy.</li>
   <li>🚀 <strong>Career Goals:</strong> I study computer science to improve my skills and knowledge for the overall development of computer technology.</li>
-  <li>📚 <strong>Hobbies:</strong> Enjoy Climbing and playing Squad.</li>
+  <li>📚 <strong>Hobbies:</strong> Enjoy Climbing and playing War Thunder.</li>
   <li>💼 <strong>Current Role:</strong> FrontEnd Developer at BeatXS corporation.</li>
 </ul>
   &nbsp;&nbsp;
