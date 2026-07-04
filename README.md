@@ -10,7 +10,7 @@ Hi, I'm Danylo, 18 y.o. frontend developer (TypeScript, React, Next.js). I also 
 
 ### • Stack
 
-<div align="center">
+<div>
   <img src="https://skillicons.dev/icons?i=ts,go,postgres,mongodb,react,nextjs&theme=dark" alt="Tech Stack" />
 </div>
 
@@ -18,7 +18,7 @@ Hi, I'm Danylo, 18 y.o. frontend developer (TypeScript, React, Next.js). I also 
 
 ### • Contact
 
-<div align="center">
+<div>
   <a href="https://t.me/Xlussov">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
