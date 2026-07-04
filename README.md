@@ -2,25 +2,27 @@
   <img src="https://raw.githubusercontent.com/Xlussov/Xlussov/refs/heads/main/assets/zero-two.gif" alt="Header" />
 </div>
 
-**Full-stack Software Engineer**
+## Full-stack Software Engineer
 
-Hi, I'm Danilo. I'm an 18 y.o. frontend developer (TypeScript, React, Next.js). I also write Go and have an active interest in cybersecurity.
+Hi, I'm Danylo, 18 y.o. frontend developer (TypeScript, React, Next.js). I also write Go and have an active interest in cybersecurity.
 
 ---
 
 ### • Stack
 
-**Backend**  
-![Go](https://img.shields.io/badge/Go-282828?style=flat-square&logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282828?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-282828?style=flat-square&logo=mongodb&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,go,postgres,mongodb,react,nextjs&theme=dark" alt="Tech Stack" />
+</div>
 
-**Frontend**  
-![TypeScript](https://img.shields.io/badge/TypeScript-282828?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-282828?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-282828?style=flat-square&logo=next.js&logoColor=white)
+<br>
 
 ### • Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-282828?style=flat-square&logo=telegram&logoColor=white)](твоя_ссылка_на_тг)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-282828?style=flat-square&logo=linkedin&logoColor=white)](твоя_ссылка_на_linkedin)
+<div align="center">
+  <a href="https://t.me/Xlussov">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.linkedin.com/in/danylo-hlusov">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
