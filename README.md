@@ -1,97 +1,29 @@
-<h5 align='center'>
-  <strong>  
-    <a href='./README.md/'>English</a>
-    /
-    <a href='./README.ua.md/'>Ukrainian</a>
-  </strong>
-</h5>
-
 <div align="center">
-  <img src="./assets/github-banner-v3.gif" alt="Header" width='100%'/>
+  <img src="./zero-two.gif" alt="Typing SVG" />
 </div>
 
-<h4 align='center' style='font-size: 16px'>I'm a FrontEnd developer from Ukraine, working with <strong>React, TypeScript, MUI</strong> to build productive web applications.</h4>
+**Full-stack Software Engineer**
 
-<h3>About me:</h3>
-<ul>
-  <li>👨‍💻 <strong>Name:</strong> Danil Hlusov</li>
-  <li>🎂 <strong>Age:</strong> 17 years old</li>
-  <li>🌍 <strong>Location:</strong> Ukraine</li>
-  <li>🗣️ <strong>Languages:</strong> Ukrainian: Native, Russian: Native, English: B1</li>
+Frontend developer (TypeScript, React, Next.js). I also write Go and have an active interest in cybersecurity.
 
-  <li>🎓 <strong>Education:</strong> Front-end Developer from IT STEP Academy.</li>
-  <li>🚀 <strong>Career Goals:</strong> I study computer science to improve my skills and knowledge for the overall development of computer technology.</li>
-  <li>📚 <strong>Hobbies:</strong> Enjoy Climbing and playing War Thunder.</li>
-  <li>💼 <strong>Current Role:</strong> FrontEnd Developer at HousesCRM.</li>
-</ul>
-  &nbsp;&nbsp;
-<p align="center">
-  <a href="https://t.me/Xlussov" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:xlussov@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/Xlussov" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;
-  <a href="https://leetcode.com/Xlussov" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LeetCode-FEFEFE?style=flat&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>&nbsp;&nbsp;
-</p>
+---
 
+### 💻 Stack
 
-<h2>💻 Core technologies:</h2>
-&nbsp;&nbsp;
-<p align="center">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="52" height="52" alt="TypeScript" />
-  </a>&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="52" height="52" alt="React" />
-  </a>&nbsp;&nbsp;
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="52" height="52" alt="Vite" />
-  </a>&nbsp;&nbsp;
-  <a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="52" height="52" alt="Material UI" />
-  </a>&nbsp;&nbsp;
-  <a href="https://feature-sliced.design/docs" target="_blank" rel="noreferrer">
-    <img src="https://feature-sliced.design/ru/img/brand/logo-primary.png" alt="FSD Logo" width="auto" height="44" />
-  </a>
-</p>
+**Backend**  
+![Go](https://img.shields.io/badge/Go-282828?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-282828?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-282828?style=flat-square&logo=mongodb&logoColor=white)
 
-<h2>🚀 Technology stack:</h2>
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-282828?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-282828?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-282828?style=flat-square&logo=next.js&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
-  <img src="https://img.shields.io/badge/Sass/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass/SCSS Badge" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind Badge" />
-  <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" alt="Gulp Badge" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI Badge" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge" />
-  <img src="https://img.shields.io/badge/WebSocket-1A73E8?style=for-the-badge&logo=websocket&logoColor=white" alt="WebSocket Badge" />
-  <img src="https://img.shields.io/badge/React_Hook_Form-EC4C4D?style=for-the-badge&logo=react&logoColor=white" alt="React Hook Form Badge" />
-  <img src="https://img.shields.io/badge/i18next-007BFF?style=for-the-badge&logo=react&logoColor=white" alt="i18next Badge" />
-  <img src="https://img.shields.io/badge/Swiper-000000?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper Badge" />
-  <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages Badge" />
-  <img src="https://img.shields.io/badge/Axios-5A29E3?style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge" />
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint Badge" />
-  <img src="https://img.shields.io/badge/Formik-0F4C81?style=for-the-badge&logo=formik&logoColor=white" alt="Formik Badge" />
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" alt="Prettier Badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Badge" />
-</p>
+### ⌨️ Stats
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-120_WPM-e2b714?style=flat-square&logo=monkeytype&logoColor=323437&labelColor=323437)](https://monkeytype.com/profile/твой_ник)
 
+### 📬 Contact
+[![Telegram](https://img.shields.io/badge/Telegram-282828?style=flat-square&logo=telegram&logoColor=white)](твоя_ссылка_на_тг)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-282828?style=flat-square&logo=linkedin&logoColor=white)](твоя_ссылка_на_linkedin)
 
-<h2>📈 GitHub Stats:</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xlussov&show_icons=true&theme=github_dark_dimmed&hide=html,css,scss&langs_count=3" alt="Danil's GitHub Stats"  height='200px'/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Xlussov&show_icons=true&theme=github_dark_dimmed" alt="Danil's GitHub Stats" height='200px'/>
-</div>
