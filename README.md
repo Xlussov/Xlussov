@@ -4,14 +4,14 @@
 
 ## Full-stack Software Engineer
 
-Hi, I'm Danylo, 18 y.o. frontend developer (TypeScript, React, Next.js). I also write Go and have an active interest in cybersecurity.
+Hi, I'm Danylo, 18 y.o. full-stack developer (TypeScript, React, Next.js). I also write Go, Lua, and Rust, and have an active interest in cybersecurity.
 
 ---
 
 ### • Stack
 
 <div>
-  <img src="https://skillicons.dev/icons?i=ts,go,postgres,mongodb,react,nextjs&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,go,lua,rust,postgres,mongodb,react,nextjs" alt="Tech Stack" />
 </div>
 
 <br>
